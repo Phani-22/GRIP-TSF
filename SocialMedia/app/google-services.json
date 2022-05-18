@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114487677554",
+    "project_id": "social-media-2da03",
+    "storage_bucket": "social-media-2da03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114487677554:android:7c5d3fef48ede251d168eb",
+        "android_client_info": {
+          "package_name": "com.phani.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114487677554-1jm55t2p1j4ee1n2ab50kiqesq88vejk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUxmmz3vD2US_MUvgjwzd_Ig2bHzF2Be0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114487677554-1jm55t2p1j4ee1n2ab50kiqesq88vejk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
